@@ -10,16 +10,16 @@ export const database = {
             name: "Hyperspeed",
             power: "Super speed"
         }
-    ]
+    ],
     villains: [
         {
-            id: 1
-            name: "CircuitBreaker"
+            id: 1,
+            name: "CircuitBreaker",
             power: "Destroys electronics"
-        }
+        },
         {
-            id: 2 
-            name: "Malware Maven"
+            id: 2, 
+            name: "Malware Maven",
             power: "Mind Control"
         }
     ]
